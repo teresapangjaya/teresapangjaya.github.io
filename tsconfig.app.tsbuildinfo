@@ -1,0 +1,1 @@
+{"root":["./src/env.d.ts","./src/main.ts","./src/types/index.ts","./src/app.vue","./src/components/aboutpanel.vue","./src/components/contactpanel.vue","./src/components/infocard.vue","./src/components/navtabs.vue","./src/components/profilecard.vue","./src/components/resumepanel.vue","./src/components/skillspanel.vue"],"version":"5.8.3"}
