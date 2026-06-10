@@ -67,23 +67,17 @@ body {
 }
 
 .avatar-wrap {
-  width: 110px; height: 110px;
   margin: 0 auto 14px;
   border-radius: 20px;
   overflow: hidden;
   background: #ede8f5;
   display: flex; align-items: center; justify-content: center;
-  border: 2px dashed var(--pink-soft);
 }
-.avatar-placeholder {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 6px;
-  color: var(--muted);
+.avatar-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
-.avatar-placeholder svg { width: 40px; height: 40px; opacity: 0.45; }
-.avatar-placeholder span { font-size: 0.65rem; opacity: 0.6; }
 
 .profile-name {
   font-family: 'Playfair Display', serif;
