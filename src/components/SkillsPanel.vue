@@ -20,7 +20,7 @@ const categories: SkillCategory[] = [
   {
     title: 'AI & Development',
     chipClass: 'lav',
-    skills: ['AI-Assisted Test Generation', 'Basic Java / C#', 'ISTQB Foundation (2026)'],
+    skills: ['AI-Assisted Test Generation', 'Basic Java / C#'],
   },
 ]
 </script>
