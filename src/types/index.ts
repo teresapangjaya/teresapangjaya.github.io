@@ -3,6 +3,8 @@ export interface Experience {
   company: string
   period: string
   bullets: string[]
+  image?: string
+  skills?: string[]
 }
 
 export interface Service {
